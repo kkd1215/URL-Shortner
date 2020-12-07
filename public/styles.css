@@ -1,0 +1,48 @@
+body {
+  padding: 30px;
+  background-color: #ddf3f5;
+}
+
+a {
+  width: 30vw;
+}
+
+h1 {
+  font-family: 'Grandstander', cursive;
+  text-align: center;
+}
+
+
+form {
+  font-family: 'Grandstander', cursive;
+  width: 70vw;
+}
+
+p.error {
+  background-image: linear-gradient();
+  text-align: center;
+  font-family: 'Itim', cursive;
+  font-size: 3vh;
+  padding: 1vh;
+  font-weight: 1200;
+  width: 60vw;
+  margin: 20px auto;
+}
+
+.btn {
+  background-color: #6610f2;
+  color: white;
+}
+
+.btn:hover {
+  background-color: white;
+  color: #6610f2;
+}
+.short-url {
+  text-align: center;
+  font-family: 'Itim', cursive;
+  font-size: 3vh;
+  padding: 10px;
+  font-weight: 1200;
+  width: 70vw;
+}
